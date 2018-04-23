@@ -11,6 +11,9 @@
 ### 白菜贡献
 - [Java面试题](Java面试题/cabbage/0413.md)
 - [深圳市宇阳科技](Java面试题/cabbage/深圳市宇阳科技.md)
+
+### [俊雪恋][1]
+- [20届找实习之阿里，头条，网易，小米，搜狐，商汤，滴滴面经合集](Java面试题/俊雪恋/20届找实习之阿里，头条，网易，小米，搜狐，商汤，滴滴面经合集.md)
 ## Android面试题 
 ### 搜集
 - [最全的BAT大厂面试题整理](Android面试题/最全的BAT大厂面试题整理/最全的BAT大厂面试题整理.md)
@@ -40,3 +43,6 @@
 
 - [HR提出的面试问题参考解答](HR面试题/AweiLoveAndroid/HR提出的面试问题参考解答.md)
 - [非技术性问题&HR问题汇总](HR面试题/AweiLoveAndroid/非技术性问题&HR问题汇总.md)
+
+
+[1]: http://junxuelian.cn/2018/03/08/20%E5%B1%8A%E6%89%BE%E5%AE%9E%E4%B9%A0%E4%B9%8B%E9%98%BF%E9%87%8C%EF%BC%8C%E5%A4%B4%E6%9D%A1%EF%BC%8C%E7%BD%91%E6%98%93%EF%BC%8C%E5%B0%8F%E7%B1%B3%EF%BC%8C%E6%90%9C%E7%8B%90%EF%BC%8C%E7%99%BE%E5%BA%A6%E7%AD%89%E9%9D%A2%E7%BB%8F%E5%90%88%E9%9B%86/
